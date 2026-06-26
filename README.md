@@ -17,6 +17,7 @@ Research Agent → Summariser Agent → Fact-Checker Agent
 - Groq LLaMA 3.3 70B — LLM backbone
 - Streamlit — user interface
 - Python — core language
+- 🐳 Docker — containerisation
 
 ## 🚀 Run Locally
 1. Clone the repo
