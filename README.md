@@ -6,7 +6,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-🚀 **Live App:** [Try it here](https://medical-research-agent-3mbhgune6spud5lszhhvqs.streamlit.app) *(free tier — if the app is asleep, click wake up and wait ~30s)*
+🚀 **Live App:** [Try it here](https://medical-research-agent-3mbhgune6spud5lszhhvqs.streamlit.app) *(if the app is asleep, click wake up and wait ~30s)*
 
 A multi-agent AI system that researches any medical topic using **3 specialized agents working in sequence**: one gathers information, one makes it readable, and one checks it before the user sees it.
 
